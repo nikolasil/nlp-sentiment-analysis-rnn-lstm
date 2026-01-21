@@ -62,7 +62,7 @@ Through exhaustive testing, I compared these sequential models against previous 
 
 ---
 ## 🎓 Academic Context
-Developed as part of the Artificial Intelligence I course at the National and Kapodistrian University of Athens (UoA). Based on the UC Berkeley CS188 framework.
+Developed as part of the Artificial Intelligence II course at the National and Kapodistrian University of Athens (UoA). Based on the UC Berkeley CS188 framework.
 
 ## 🚦 Setup & Usage
 ```bash
@@ -71,3 +71,4 @@ pip install torch pandas scikit-learn nltk numpy matplotlib
 
 # Run the sequential trainer
 python main.py
+
